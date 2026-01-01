@@ -3,7 +3,7 @@
 
 -- A beautifully animated dual-form interface with seamless transitions between login and registration modes, featuring floating labels and glass-morphism effects.
 
-# Demo: https://coding-with-rohit-914.github.io/Animated-Login-SignUp/#
+# Demo: https://flip-form.netlify.app/
 
 ✨ Features
 
@@ -98,3 +98,4 @@ Background color change for better visibility
 
 
 -- A visually stunning login/signup interface with smooth animations that enhances user experience through engaging transitions and modern design principles.
+
